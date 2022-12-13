@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+*Rails Tutorialで作るサンプルアプリケーションの１つです。
+
